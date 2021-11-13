@@ -1,0 +1,2 @@
+# Titanik-Survival-Prediction-
+ Almost all of us know the story of the RMS Titanic, which took off in April 1912 to make its maiden voyage from England to New York and sank into the cool waters of the North Atlantic sea on the 5th day of its voyage. It was the largest steam passenger ship in the world at the time. Well, I wonder if we had been a passenger who had bought a ticket to travel with this huge ship from the port of Southampton that day, would we have survived?
